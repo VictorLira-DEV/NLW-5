@@ -56,7 +56,7 @@
 
 # 🎲 Run application
 To run the application on the web, follow the instructions from your terminal:
-- `cd podcastr_nlw05` and `code .`
+- `Podcastr-next-master` and `code .`
 - run `yarn` to install the dependencies of the project
 - After that, run `yarn dev` to run the application, will open at the address `localhost:3000`
 <br>
