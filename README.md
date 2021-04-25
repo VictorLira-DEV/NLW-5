@@ -50,7 +50,7 @@
 <br>
 
 ## :information_source: Application installation
-- `git clone https://github.com/mathwcruz/podcastr_nlw05.git` to clone the repository
+- `https://github.com/VictorLira-DEV/NLW-5.git` to clone the repository
 
 <br>
 
